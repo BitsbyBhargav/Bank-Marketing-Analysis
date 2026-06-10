@@ -261,7 +261,7 @@ Computer Science Student · Big Data & Cloud Engineering
 Primary: Data Analytics · Secondary: Cloud Engineering
 
 [![GitHub](https://img.shields.io/badge/GitHub-BitsbyBhargav-181717?style=flat&logo=github)](https://github.com/BitsbyBhargav)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/bhargav-sonawane-b50605327/)
 
 ---
 
